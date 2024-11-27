@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Karima Alahyan  
 
 Welcome to my GitHub profile! I'm a passionate and curious **data science master's student** at the University of Sciences in Agadir, always eager to learn and contribute to innovative projects.  
+here's my Kaggle link for my jupyter notebooks : [My Kaggle](mailto:https://www.kaggle.com/karimaalahyan)
 
 ## 👀 I’m interested in  
 - Data Science and Machine Learning  
